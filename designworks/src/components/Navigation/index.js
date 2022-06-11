@@ -58,7 +58,7 @@ const Container = styled.div`
   position: ${(props) => props.displayBlock ? 'absolute' : 'relative'};
   top: ${(props) => props.displayBlock ? '0' : 'none'};
   left: ${(props) => props.displayBlock ? '0' : 'none'};
-  height: ${(props) => props.displayBlock ? '100vh' : 'none'};
+  height: ${(props) => props.displayBlock ? '93%' : 'none'};
 
   padding: 94px 48px;
   background-color: #F44336;
