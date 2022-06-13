@@ -6,7 +6,7 @@ const Container = styled.div`
   width: 80%;
   margin: 0 auto;
 `;
-const Title = styled.table`
+const Title = styled.div`
   padding-top: 32px;
   font-size: 32px;
   padding-bottom: 32px;
